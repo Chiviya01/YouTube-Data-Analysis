@@ -30,3 +30,5 @@ More complex Data Analysis, Natural Language Processing and Machine Learning tas
 ### The purpose of the project
 
 ### Project Components
+1. **Dataset** compiles data on daily trending YouTube videos. The dataset is updated daily (link here: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). For this project the newest version of the dataset was used, dated 12/08/2020 - 1/12/2022. Only data from English-speaking countries was used - the USA, Great Britain, and Canada. Each region’s data is in a separate file. The video categories are the same for all regions and are contained in a .json file. 
+2. 
