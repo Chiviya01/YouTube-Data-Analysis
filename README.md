@@ -8,6 +8,7 @@ __
 
 ### Project Status
 Project is: _complete_
+
 _This project was completed in collaboration with [swiatej](https://github.com/swiatej)_
 
 ## Table of Contents
