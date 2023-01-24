@@ -1,7 +1,6 @@
 # YouTube-Data-Analysis
 
-Spark Hive PySpark Hadoop MapReduce
-
+Spark Hive PySpark Hadoop MapReduce GraphFrames NetworkX
 ___
 _How to get into trends? How fast can a video go viral? Do trending videos with negative sentiment refer to a bigger number of dislikes? Any common trends in English-speaking countries?_
 __ 
@@ -26,10 +25,11 @@ This project is about analysing trending videos on Youtube over the period of 2 
 The project was completed in **Spark**. The cluster was deployed on Spark. 
 Data cleaning and simple analysis in **Hive**.
 More complex Data Analysis, Natural Language Processing and Machine Learning tasks were completed in **PySpark**. 
+The visualisations were compiled using GraphFrames and NetworkX libraries
 
 ### Project Components
-1. [**Report**](). A pdf document that includes the general information, inspiration, dataset description, summary of the analysis and conclusions of the project. 
+1. [**Report**](Report.pdf). A pdf document that includes the general information, inspiration, dataset description, summary of the analysis and conclusions of the project. 
 2. **Dataset** compiles data on daily trending YouTube videos. The dataset is updated daily (link here: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset). For this project the newest version of the dataset was used, dated 12/08/2020 - 1/12/2022. Only data from English-speaking countries was used - the USA, Great Britain, and Canada. Each region’s data is in a separate file. The video categories are the same for all regions and are contained in a .json file. 
-3. [**Simple Analysis in Hive**](). It is a Jupyter Notebook that includes initial EDA of data and conclusions driven from it.
-4. [**Complex Data Analysis, NLP, ML in Pyspark**](). It is a Jupyter Notebook that includes Data Visualisation, Complex EDA, Sentiment Analysis and ML.
-5. **Visual Data Representation** In this project repository 3 data visualisations can be found. [GB]() [Canada]() [USA]() Each png image is a visual data representation for each of the countries, data from which was used for this project.
+3. [**Simple Analysis in Hive**](simple_analysis_hive.ipynb). It is a Jupyter Notebook that includes initial EDA of data and conclusions driven from it.
+4. [**Complex Data Analysis, NLP, ML in Pyspark**](Pyspark-Youtube-Analysis.ipynb). It is a main Jupyter Notebook that includes Data Visualisation, Complex EDA, Sentiment Analysis and ML parts of the project. Detailed conclusions and explanations are also presented in the notebook.
+5. **Visual Data Representation** In this project repository 3 data visualisations can be found. [GB](gb_plot.png) [Canada](ca_plot.png) [USA](us_plot.png) Each png image is a visual data representation for each of the countries, data from which was used for this project.
