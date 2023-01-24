@@ -8,7 +8,7 @@ __
 
 ### Project Status
 Project is: _complete_
-_This project was completed in collaboration with @swiatej_
+_This project was completed in collaboration with @swiatej
 
 ## Table of Contents
 * [General Info](#general-information)
