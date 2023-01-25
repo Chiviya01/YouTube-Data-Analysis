@@ -2,8 +2,8 @@
 
 **Spark Hive PySpark Hadoop MapReduce GraphFrames NetworkX**
 ---
+
 _How to get into trends? How fast can a video go viral? Do trending videos with negative sentiment refer to a bigger number of dislikes? Any common trends in English-speaking countries?_
----
 
 ### Project Status
 Project is: _complete_
