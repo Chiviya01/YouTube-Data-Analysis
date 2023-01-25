@@ -1,4 +1,6 @@
-# YouTube-Data-Analysis <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="vscode" width="45" height="45"/>
+# YouTube-Data-Analysis 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="vscode" width="65" height="65"/>
 
 **Spark Hive PySpark Hadoop MapReduce GraphFrames NetworkX**
 ___
