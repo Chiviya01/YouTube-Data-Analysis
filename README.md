@@ -1,11 +1,9 @@
 # YouTube-Data-Analysis
 
 **Spark Hive PySpark Hadoop MapReduce GraphFrames NetworkX**
-___
-_How to get into trends? How fast can a video go viral? Do trending videos with negative sentiment refer to a bigger number of dislikes? Any common trends in English-speaking countries?
-
+---
+_How to get into trends? How fast can a video go viral? Do trending videos with negative sentiment refer to a bigger number of dislikes? Any common trends in English-speaking countries?_
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="vscode" width="90" height="90"/>
-
 ---
 
 ### Project Status
